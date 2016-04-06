@@ -16,6 +16,7 @@
     "ORIENTATION_LOGO": "/assets/default_logo.svg",
     "ORIENTATION_FAVICON": "/assets/default_favicon.png",
     "ORIENTATION_DOMAIN": "REDACTED",
+    "ORIENTATION_EMAIL_WHITELIST": "",
     "GOOGLE_SECRET": "REDACTED",
     "GOOGLE_KEY": "REDACTED",
     "MANDRILL_USERNAME": "REDACTED",
